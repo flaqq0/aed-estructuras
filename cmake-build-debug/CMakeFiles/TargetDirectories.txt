@@ -1,0 +1,16 @@
+D:/FLAV/DESK/utec/2025-0/aed/homeworks/cmake-build-debug/CMakeFiles/forward_List.dir
+D:/FLAV/DESK/utec/2025-0/aed/homeworks/cmake-build-debug/CMakeFiles/doublyLL.dir
+D:/FLAV/DESK/utec/2025-0/aed/homeworks/cmake-build-debug/CMakeFiles/CircularDLL.dir
+D:/FLAV/DESK/utec/2025-0/aed/homeworks/cmake-build-debug/CMakeFiles/sentin.dir
+D:/FLAV/DESK/utec/2025-0/aed/homeworks/cmake-build-debug/CMakeFiles/pilaDinamic.dir
+D:/FLAV/DESK/utec/2025-0/aed/homeworks/cmake-build-debug/CMakeFiles/pilaStatic.dir
+D:/FLAV/DESK/utec/2025-0/aed/homeworks/cmake-build-debug/CMakeFiles/colaDinamic.dir
+D:/FLAV/DESK/utec/2025-0/aed/homeworks/cmake-build-debug/CMakeFiles/colaStatic.dir
+D:/FLAV/DESK/utec/2025-0/aed/homeworks/cmake-build-debug/CMakeFiles/hashmapOg.dir
+D:/FLAV/DESK/utec/2025-0/aed/homeworks/cmake-build-debug/CMakeFiles/hashmapNw.dir
+D:/FLAV/DESK/utec/2025-0/aed/homeworks/cmake-build-debug/CMakeFiles/arbol.dir
+D:/FLAV/DESK/utec/2025-0/aed/homeworks/cmake-build-debug/CMakeFiles/arbolBST.dir
+D:/FLAV/DESK/utec/2025-0/aed/homeworks/cmake-build-debug/CMakeFiles/prueba.dir
+D:/FLAV/DESK/utec/2025-0/aed/homeworks/cmake-build-debug/CMakeFiles/linked.dir
+D:/FLAV/DESK/utec/2025-0/aed/homeworks/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/FLAV/DESK/utec/2025-0/aed/homeworks/cmake-build-debug/CMakeFiles/rebuild_cache.dir
